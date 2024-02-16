@@ -1,4 +1,4 @@
-# 基于bert-mini和MIND数据集的新闻推荐系统
+# 基于Fastformer和MIND数据集的新闻推荐系统
 ## Requirements - 环境配置
 
 `pip install -r requirements.txt`
